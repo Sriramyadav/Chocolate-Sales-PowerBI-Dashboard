@@ -17,7 +17,7 @@ The dashboard helps business stakeholders make data-driven decisions.
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Dashboard Screenshot](https://github.com/Sriramyadav/Chocolate-Sales-PowerBI-Dashboard/blob/ed5e3bd0847998fa0d7732ffd694c7c5bcc47750/dashboard_screenshot.png)
 
 ## 🔍 Key Insights
 - Sales trends over time  
