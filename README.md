@@ -1,7 +1,7 @@
 # Chocolate-Sales-PowerBI-Dashboard
 Interactive Chocolate Sales Dashboard built with Power BI
 # 🍫 Chocolate Sales Dashboard — Power BI Project
-![image alt](https://github.com/Sriramyadav/Chocolate-Sales-PowerBI-Dashboard/blob/ed5e3bd0847998fa0d7732ffd694c7c5bcc47750/dashboard_screenshot.png)
+
 ## 🚀 Project Overview
 This is an interactive **Chocolate Sales Dashboard** created using Microsoft Power BI.  
 It visualizes key sales metrics such as revenue, profit %, sales trends, top products, and shipment distribution.  
